@@ -54,6 +54,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CharacterCounter.cs" />
+    <Compile Include="Counted.cs" />
+    <Compile Include="countingsort.cs" />
     <Compile Include="Heapier.cs" />
   </ItemGroup>
   <ItemGroup>
